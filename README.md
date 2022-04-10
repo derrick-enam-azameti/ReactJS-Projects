@@ -1,2 +1,2 @@
-# ReactJS-Projects
-Web apps developed using React JS
+# Pharmacy App using MERN
+
